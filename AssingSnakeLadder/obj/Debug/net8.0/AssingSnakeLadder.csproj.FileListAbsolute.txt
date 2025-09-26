@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\bin\Debug\net8.0\AssingSnakeLadder.exe
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\bin\Debug\net8.0\AssingSnakeLadder.deps.json
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\bin\Debug\net8.0\AssingSnakeLadder.runtimeconfig.json
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\bin\Debug\net8.0\AssingSnakeLadder.dll
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\bin\Debug\net8.0\AssingSnakeLadder.pdb
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.dll
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\refint\AssingSnakeLadder.dll
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.pdb
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\AssingSnakeLadder.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AssingSnakeLadder\AssingSnakeLadder\obj\Debug\net8.0\ref\AssingSnakeLadder.dll
